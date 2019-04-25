@@ -3,7 +3,6 @@
 Basic hostel page with quoting tool and subscription support.
 
 ##Read 
-``` bash
 * [Mobile Mockups](https://scene.zeplin.io/project/5ca139b23af358054bcab181)
 * [Website Style Guide and Mockups](https://scene.zeplin.io/project/5ca139b23af358054bcab181)
 * [Downloadable resources](https://app.zeplin.io/project/5ca139b23af358054bcab181/dashboard)
@@ -12,7 +11,7 @@ Basic hostel page with quoting tool and subscription support.
 * [CSS style guide](https://github.com/airbnb/css#css)
 * [BEM - CSS guide](http://getbem.com/introduction/)
 * [JS style guide](https://github.com/airbnb/javascript)
-```
+
 ## Instructions 🚀
 
 _These instructions allow you to obtain a copy of the project in operation on your local machine for development and testing._
