@@ -2,7 +2,8 @@
 
 Basic hostel page with quoting tool and subscription support.
 
-##Read 
+## Read 📄
+
 * [Mobile Mockups](https://scene.zeplin.io/project/5ca139b23af358054bcab181)
 * [Website Style Guide and Mockups](https://scene.zeplin.io/project/5ca139b23af358054bcab181)
 * [Downloadable resources](https://app.zeplin.io/project/5ca139b23af358054bcab181/dashboard)
