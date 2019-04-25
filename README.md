@@ -1,6 +1,9 @@
-# hostal_las_paisas
+<h1 align="center"> hostal_las_paisas </h1>
 
 Basic hostel page with quoting tool and subscription support.
+
+##Read 
+
 
 ## Instructions 🚀
 
@@ -24,15 +27,15 @@ _We can find an introductory Hero to the page, also a carrousel with a diversity
 * HTML
 * CSS
 
-## Authors ✒️
-
+## Colaborators ✒️
+| [<img src="https://avatars2.githubusercontent.com/u/10585946?v=4" width="100px;"/><br /><sub><b>Victor Florez</b></sub>](https://github.com/Sonny97)<br />[💻](https://github.com/rtsc8/hostal_donde_las_paisas/commits/develop "Code") [📋](#eventOrganizing-VictorFlorez "Event Organizing") [📖](https://github.com/rtsc8/hostal_donde_las_paisas/commits/develop "Documentation") [📢] |
 
 
 ## license 📄
 
 This project is under the license (MIT) - look the archive [LICENSE.md](LICENSE.md) for more details.
 
-## Thnaks 🎁
+## Thanks 🎁
 
 * Tell others about this project 📢
 * invite a beer 🍺 to someone on the team (preferably to Victor). 
