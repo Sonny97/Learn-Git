@@ -4,14 +4,14 @@ Basic hostel page with quoting tool and subscription support.
 
 ##Read 
 ``` bash
-- [Mobile Mockups](https://scene.zeplin.io/project/5ca139b23af358054bcab181)
-- [Website Style Guide and Mockups](https://scene.zeplin.io/project/5ca139b23af358054bcab181)
-- [Downloadable resources](https://app.zeplin.io/project/5ca139b23af358054bcab181/dashboard)
-- [Website Prototype](https://sketch.cloud/s/0xOEG/R1Zx1o8/play)
-- [Website zepllin](https://sketch.cloud/s/0xOEG)
-- [CSS style guide](https://github.com/airbnb/css#css)
-- [BEM - CSS guide](http://getbem.com/introduction/)
-- [JS style guide](https://github.com/airbnb/javascript)
+* [Mobile Mockups](https://scene.zeplin.io/project/5ca139b23af358054bcab181)
+* [Website Style Guide and Mockups](https://scene.zeplin.io/project/5ca139b23af358054bcab181)
+* [Downloadable resources](https://app.zeplin.io/project/5ca139b23af358054bcab181/dashboard)
+* [Website Prototype](https://sketch.cloud/s/0xOEG/R1Zx1o8/play)
+* [Website zepllin](https://sketch.cloud/s/0xOEG)
+* [CSS style guide](https://github.com/airbnb/css#css)
+* [BEM - CSS guide](http://getbem.com/introduction/)
+* [JS style guide](https://github.com/airbnb/javascript)
 ```
 ## Instructions 🚀
 
