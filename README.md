@@ -29,7 +29,7 @@ Have a web browser (preferably Google Chrome)
 * HTML
 * CSS
 
-## Workflow
+## Workflow :memo:
 
 Our general DEV workflow should be the next:
 
