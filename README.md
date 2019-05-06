@@ -33,16 +33,16 @@ Have a web browser (preferably Google Chrome)
 
 Our general DEV workflow should be the next:
 
-1 - Find a task that has a score and you feel confortable developing.
-2 - Make sure all the info you need to develop it is available to you, if not ask the team.
-3 - assign the task to yourself and set it on the "To do" or "Doing" columns depending on when you will actually start.
-4 - create a new branch from the 'develop' branch named this way:
-        'feature/description' for additions
-        'bugfix/description' for bugfixes
-        'enhancement/description' for improvements
-        'issue/description'
-5 - code :D
-6 - commit your changes.
+1 - Find a task that has a score and you feel confortable developing.<br />
+2 - Make sure all the info you need to develop it is available to you, if not ask the team.<br />
+3 - assign the task to yourself and set it on the "To do" or "Doing" columns depending on when you will actually start.<br />
+4 - create a new branch from the 'develop' branch named this way:<br />
+        'feature/description' for additions <br />
+        'bugfix/description' for bugfixes <br />
+        'enhancement/description' for improvements <br />
+        'issue/description' <br />
+5 - code :D<br />
+6 - commit your changes.<br />
 7 - if your task is ready submit a pull request on Github.
 
 **Pull request should always:**
